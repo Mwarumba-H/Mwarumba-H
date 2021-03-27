@@ -6,8 +6,8 @@
 
 I'm Harrison Mwarumba, from Nairobi :kenya:	 Currrently am Freelance Software Engineer in Nairobi, passionate about solving problems with technology and creating different solutions.
 
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning Html, Css,React, Javascript,Java, Nodejs & Spring.
+- 👀 I’m interested in full stack web development,
+- 🌱 I’m familiar with Html, Css,React, Javascript,Java, Nodejs, Spring and learning more new technologies .
 - 💞️ I’m looking to collaborate on web developing to assist me build up these skills.
 - 📫 How to reach me through my email: harrymwarush@gmail.com, linkedin: https://www.linkedin.com/in/harrison-mbui-8b902389
 
