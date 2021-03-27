@@ -4,7 +4,7 @@
 
 **Hello World!** :earth_africa:	
 
-I'm Harrison Mwarumba, from Nairobi :kenya:	 Currrently am Freelance Software Engineer in Nairobi, passionate about solving problems with technology and creating different solutions.
+I'm Harrison Mwarumba, from Nairobi :kenya:	 Currrently am Freelance Software Engineer in Nairobi, passionate about solving problems with technology :man_technologist:	 and creating different solutions.
 
 - 👀 I’m interested in full stack web development,
 - 🌱 I’m familiar with Html, Css,React, Javascript,Java, Nodejs, Spring and learning more new technologies .
